@@ -1,4 +1,5 @@
 Object Detection & TTS Smart Glasses for the Visually Impaired
+
 2023 DU 기업문제 해결형 아이디어 해커톤 대회 [장려상]
 
 이 프로젝트는 실시간 탐색 및 객체 감지를 지원하는 웨어러블 솔루션을 제공하여 시각 장애인에게 힘을 실어주는 것을 목표로 합니다. 

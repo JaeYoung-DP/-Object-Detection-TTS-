@@ -1,4 +1,4 @@
-Object Detection & TTS Smart Glasses for the Visually Impaired
+&Object Detection & TTS Smart Glasses for the Visually Impaired
 
 2023 DU 기업문제 해결형 아이디어 해커톤 대회 [장려상]
 

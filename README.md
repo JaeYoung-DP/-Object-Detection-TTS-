@@ -7,3 +7,10 @@
 ```
 python detect.py --weights (ex. yolo5s.pt )
 ```
+
+--- 
+인용 
+
+<https://github.com/ultralytics/yolov5> 
+
+<https://github.com/autogyro/yolo-V8> 

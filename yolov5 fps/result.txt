@@ -1,0 +1,12 @@
+환경 NVIDIA jetson Xavier
+
+accuracy : 0.995
+
+n - 147 layer   25m/s
+s - 157   "     57m/s
+m - 212   "     137m/s
+l - 267   "     240m/s
+x - 322   "     420m/s 
+
+
+

@@ -9,6 +9,10 @@ python detect.py --weights (ex. yolo5s.pt )
 ```
 
 --- 
+
+train/test/vaild는 사용된 dataset의 예시입니다.
+
+--- 
 인용 
 
 <https://github.com/ultralytics/yolov5> 

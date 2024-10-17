@@ -1,19 +1,23 @@
-###### object Detection & TTS Smart Glasses for the Visually Impaired
+# object Detection & TTS Smart Glasses for the Visually Impaired
 
 2023 DU 기업문제 해결형 아이디어 해커톤 대회 
-
+---
 
 이 프로젝트는 실시간 탐색 및 객체 감지를 지원하는 웨어러블 솔루션을 제공하여 시각 장애인에게 힘을 실어주는 것을 목표로 합니다. 
+
 고급 객체 감지 알고리즘과 텍스트 음성 변환(TTS) 시스템을 결합한 스마트 안경은 사용자에게 중요한 피드백을 제공하여 주변을 안전하게 탐색할 수 있도록 합니다.
+
 초점은 시각 장애인에게 위험할 수 있는 오토바이, 자전거, 전기 스쿠터와 같은 일반적인 도시 이동성 문제를 감지하는 데 맞춰져 있습니다.
 
 
-주요 특징:
+주요 특징
+
 1. YOLOv5를 이용한 객체 감지
+   
 우리는 YOLOv5(You Only Look Once) 객체 감지 모델을 활용하여 다음과 같은 다양한 교통 수단을 실시간으로 인식하고 감지할 수 있는 소프트웨어 시스템을 구축했습니다.
 
 
-2. 자체 제작 dataset
+2. roboflow dataset 제작 ( train : 3120 / test : 145 / valid : 315 ) 
 오토바이
 
 자전거
